@@ -119,13 +119,3 @@ graph TD
   haproxy -c -f /etc/haproxy/haproxy.cfg
   ```
 
-```
-
-## 🌟 Katkıda Bulunma
-
-- Önerileriniz veya katkılarınız için GitHub’da bir **issue** açabilir veya **pull request** gönderebilirsiniz.
-- Türkçe topluluğa katkıda bulunmak için [GitHub reposu](#) oluşturabilirsiniz.
-
-## 📜 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
